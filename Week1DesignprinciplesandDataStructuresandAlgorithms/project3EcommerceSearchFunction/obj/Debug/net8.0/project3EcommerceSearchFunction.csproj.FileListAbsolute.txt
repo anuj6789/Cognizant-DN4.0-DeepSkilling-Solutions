@@ -1,0 +1,14 @@
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\bin\Debug\net8.0\project3EcommerceSearchFunction.exe
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\bin\Debug\net8.0\project3EcommerceSearchFunction.deps.json
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\bin\Debug\net8.0\project3EcommerceSearchFunction.runtimeconfig.json
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\bin\Debug\net8.0\project3EcommerceSearchFunction.dll
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\bin\Debug\net8.0\project3EcommerceSearchFunction.pdb
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.AssemblyInfoInputs.cache
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.AssemblyInfo.cs
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.dll
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\refint\project3EcommerceSearchFunction.dll
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.pdb
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\project3EcommerceSearchFunction.genruntimeconfig.cache
+C:\Users\anujk\OneDrive\Pictures\project3EcommerceSearchFunction\obj\Debug\net8.0\ref\project3EcommerceSearchFunction.dll
