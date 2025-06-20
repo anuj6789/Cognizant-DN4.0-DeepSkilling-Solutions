@@ -48,12 +48,10 @@ A financial forecasting tool that predicts future values based on past data usin
 Features:
 
 Recursive method to calculate future value based on growth rates
-
 Analysis of recursion and iterative optimization
-
 Clear, user-friendly output
 
-Sample Output:
+ Output:
 
 ![Financial Forecast Output](project4Financial Forecasting Tool
 Starting value: $1000
