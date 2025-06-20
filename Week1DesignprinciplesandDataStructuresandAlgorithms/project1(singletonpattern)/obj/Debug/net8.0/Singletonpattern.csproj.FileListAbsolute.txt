@@ -1,0 +1,14 @@
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\bin\Debug\net8.0\Singletonpattern.exe
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\bin\Debug\net8.0\Singletonpattern.deps.json
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\bin\Debug\net8.0\Singletonpattern.runtimeconfig.json
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\bin\Debug\net8.0\Singletonpattern.dll
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\bin\Debug\net8.0\Singletonpattern.pdb
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.AssemblyInfoInputs.cache
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.AssemblyInfo.cs
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.csproj.CoreCompileInputs.cache
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.dll
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\refint\Singletonpattern.dll
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.pdb
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\Singletonpattern.genruntimeconfig.cache
+C:\Users\anujk\OneDrive\Pictures\Singletonpattern\obj\Debug\net8.0\ref\Singletonpattern.dll
