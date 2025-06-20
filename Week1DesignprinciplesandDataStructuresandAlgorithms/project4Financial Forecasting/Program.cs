@@ -2,20 +2,20 @@
 
 class Program
 {
-    // Recursive method to forecast future value
+    
     static double Forecast(double currentValue, double[] growthRates, int period = 0)
     {
         if (period >= growthRates.Length)
-            return currentValue; // Base case: end of periods
+            return currentValue; 
 
         double nextValue = currentValue * (1 + growthRates[period]);
-        return Forecast(nextValue, growthRates, period + 1); // Recursive call
+        return Forecast(nextValue, growthRates, period + 1); 
     }
 
     static void Main()
     {
         double startingValue = 1000;
-        double[] growthRates = { 0.05, 0.07, 0.06, 0.08 }; // 4 periods
+        double[] growthRates = { 0.05, 0.07, 0.06, 0.08 }; 
 
         double result = Forecast(startingValue, growthRates);
 
