@@ -1,1 +1,12 @@
-" Solutions for week 1 "
+" # Project 1: Singleton Pattern Logger
+
+## Description
+
+This project demonstrates the Singleton design pattern in C#. The Singleton pattern ensures that only one instance of a class is created and provides a global point of access to it. Here, the pattern is used to implement a Logger class, so all logging in the application uses the same Logger instance.
+
+## Features
+
+- Ensures only one Logger instance exists (singleton).
+- Thread-safe, lazy initialization using `Lazy<T>`.
+- Provides a `Log()` method to print timestamped messages.
+- Demonstrates usage in a simple console application. "
