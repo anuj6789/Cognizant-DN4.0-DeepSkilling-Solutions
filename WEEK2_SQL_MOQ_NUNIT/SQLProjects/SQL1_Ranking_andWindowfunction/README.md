@@ -16,6 +16,4 @@ This project demonstrates advanced SQL ranking functions (`ROW_NUMBER`, `RANK`, 
 3. Run queries from `ranking_queries.sql` to analyze product rankings.
 4. See `OUTPUT-2.jpg` for expected results.
 
-## Example
 
-Shows the top 3 most expensive products in each category using different SQL ranking functions.
