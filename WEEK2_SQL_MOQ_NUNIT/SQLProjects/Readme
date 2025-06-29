@@ -1,1 +1,24 @@
 
+# SQL Projects
+
+This directory contains solutions for various SQL assignments as part of the Cognizant DN4.0 Deep Skilling program.  
+Each subfolder contains a separate SQL project with its own scripts and documentation.
+
+## Project List
+
+- **SQL1_Ranking_andWindowfunction**  
+  Demonstrates the use of SQL ranking and window functions to analyze and rank data.
+
+- **SQL2_GetEmployeesByDepartment**  
+  Contains queries to retrieve employees grouped by department, showcasing filtering and aggregation.
+
+- **SQL3_ReturnDatafromStoredprocedure**  
+  Shows how to create and use stored procedures to return data from the database.
+
+## How to Use
+
+1. Open any project folder to find its SQL scripts and instructions.
+2. Run the scripts in your SQL database environment (such as MySQL, SQL Server, or PostgreSQL).
+3. Review included output files or screenshots for example results.
+
+
