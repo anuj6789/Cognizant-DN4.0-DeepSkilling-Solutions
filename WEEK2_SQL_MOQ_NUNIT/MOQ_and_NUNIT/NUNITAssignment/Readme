@@ -1,0 +1,21 @@
+# NUNIT Assignment
+
+This project demonstrates unit testing in C# using the NUnit framework. It includes a calculator implementation and comprehensive unit tests covering various operations and edge cases.
+
+## Contents
+
+- `Calculator.cs` — The calculator class implementing basic arithmetic operations.
+- `CalculatorTests.cs` — NUnit test class with multiple test cases for addition, subtraction, multiplication, division, and exception handling.
+- `NUnitAssignment.csproj` — Project file for building and running the assignment.
+
+## How to Run
+
+1. Open the `NUNITAssignment` folder in Visual Studio or VS Code.
+2. Restore NuGet packages (NUnit, NUnit3TestAdapter, Microsoft.NET.Test.Sdk).
+3. Build the project.
+4. Run the tests using the Test Explorer or with the command:
+## Key Features
+
+- Demonstrates the use of `[TestFixture]`, `[SetUp]`, `[TearDown]`, `[Test]`, `[TestCase]`, and `[Ignore]` attributes.
+- Shows parameterized tests and exception testing.
+- Provides automated test coverage for all calculator methods.

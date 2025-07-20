@@ -1,0 +1,14 @@
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\bin\Debug\net8.0\project4Financial Forecasting.exe
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\bin\Debug\net8.0\project4Financial Forecasting.deps.json
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\bin\Debug\net8.0\project4Financial Forecasting.runtimeconfig.json
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\bin\Debug\net8.0\project4Financial Forecasting.dll
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\bin\Debug\net8.0\project4Financial Forecasting.pdb
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.AssemblyInfoInputs.cache
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.AssemblyInfo.cs
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.dll
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\refint\project4Financial Forecasting.dll
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.pdb
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\project4Financial Forecasting.genruntimeconfig.cache
+C:\Users\anujk\OneDrive\Pictures\project4Financial Forecasting\obj\Debug\net8.0\ref\project4Financial Forecasting.dll

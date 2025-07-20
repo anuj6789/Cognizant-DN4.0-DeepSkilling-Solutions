@@ -1,0 +1,34 @@
+# WEEK2_SQL_MOQ_NUNIT
+
+This folder contains all solutions for Week 2 assignments of the Cognizant DN4.0 Deep Skilling program, including SQL projects, Moq-based unit testing, and NUnit-based unit testing.
+
+## Structure
+
+- **MOQ_and_NUNIT/**
+  - Contains two subfolders:
+    - `MOQAssignment`: C# project demonstrating unit testing with Moq and NUnit.
+    - `NUNITAssignment`: C# project demonstrating classic unit testing with NUnit.
+- **SQLProjects/**
+  - Contains all SQL-based assignments, each in its own subfolder.
+- **README**
+  - This file, describing the folder structure and assignment contents.
+
+## How to Use
+
+- Browse into each subfolder for source code, scripts, and instructions.
+- For C# projects (`MOQAssignment`, `NUNITAssignment`):
+  1. Open the `.csproj` file in Visual Studio or VS Code.
+  2. Restore NuGet packages.
+  3. Build and run tests using the Test Explorer or `dotnet test`.
+- For SQL projects:
+  1. Open the relevant `.sql` files in your preferred SQL environment.
+  2. Execute the scripts as per instructions in each subfolder.
+
+## Proof of Execution
+
+- Output screenshots and result files are included in assignment folders where required.
+
+---
+
+*For more details, see the README files inside each project folder.*
+

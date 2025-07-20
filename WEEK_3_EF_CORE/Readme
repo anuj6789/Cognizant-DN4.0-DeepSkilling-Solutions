@@ -1,0 +1,39 @@
+
+# Week 3: Entity Framework Core (EF Core) in .NET
+
+This week focuses on learning and applying **Entity Framework Core (EF Core)** in .NET applications. EF Core is a modern object-database mapper for .NET that enables developers to work with databases using .NET objects, supporting powerful features like LINQ queries, change tracking, updates, and schema migrations[2][4][6].
+
+## Objectives
+
+- Understand the basics of EF Core and its role in data access.
+- Set up EF Core in a .NET project.
+- Create and configure data models and the database context.
+- Perform database migrations to manage schema changes.
+- Execute CRUD operations (Create, Read, Update, Delete) using EF Core.
+- Explore both Model-First and Database-First development approaches[4][6].
+
+
+
+### Prerequisites
+
+- [.NET SDK](https://dotnet.microsoft.com/download) (version 6 or later recommended)
+- Visual Studio or VS Code
+- SQL Server or another supported database
+
+
+
+- **Model-First Approach:** Define models in code, generate the database schema, and manage migrations[4].
+- **Database-First Approach:** Scaffold models and context from an existing database[4].
+- **CRUD Operations:** Use LINQ and EF Core APIs to query and update data[4][6].
+- **Best Practices:** Efficient querying, DTO usage, and relationship mapping.
+
+## References
+
+- [EF Core Documentation](https://github.com/dotnet/efcore)[2]
+- [ASP.NET Core & EF Core Sample Project Guide][6]
+- [EF Core Video Tutorial][4]
+
+---
+
+*This folder contains all code, scripts, and documentation for Week 3's EF Core learning module. For questions or troubleshooting, refer to the official EF Core docs or raise an issue in the repository.*
+

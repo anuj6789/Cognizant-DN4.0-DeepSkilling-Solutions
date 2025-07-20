@@ -1,0 +1,18 @@
+# MOQ Assignment
+
+This project demonstrates unit testing in C#
+
+## Contents
+
+- `CustomerComm.cs` — Business logic class that depends on `IMailSender`.
+- `IMailSender.cs` — Interface for sending emails (used for mocking).
+- `MailSender.cs` — Concrete implementation of `IMailSender`.
+- `CustomerCommTest.cs` — NUnit test class using Moq to mock dependencies.
+- `MOQAssignment.csproj` — Project file.
+
+## How to Run
+
+1. Open the `MOQAssignment` folder in Visual Studio or VS Code.
+2. Restore NuGet packages (Moq, NUnit, NUnit3TestAdapter, Microsoft.NET.Test.Sdk).
+3. Build the project.
+4. Run the tests using the Test Explorer or with the command:
